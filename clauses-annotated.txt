@@ -1,0 +1,7 @@
+Clause Text	Clause Type
+The employee shall not disclose confidential information obtained during employment.	Confidentiality
+This agreement may be terminated by either party with 30 days' written notice.	Termination
+The employee agrees not to engage in any competing business during the term of this agreement.	Non-compete
+Any disputes arising under this agreement shall be resolved through binding arbitration.	Dispute Resolution
+The employer reserves the right to modify job duties at any time.	Employment Terms
+The employee agrees to return all company property upon termination.	Return of Property
